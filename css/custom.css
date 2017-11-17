@@ -1,0 +1,129 @@
+/*color
+#4B4B4B - medium gray
+#8BC53F - green
+2F2F2F - dark gray
+ECECEC - light
+F4F4F4 - lightest*/
+
+@import "../golden-bootstrap-master/tests/assets/css/golden-bootstrap.css";
+
+.custom-font {
+  font-family: "niveau-grotesk";
+}
+
+.welcome-text {
+    padding-left: 100px;
+    margin: 10px;
+    font-size: 4em;
+}
+
+h1  {
+    color: #4B4B4B;
+    font-size: 3em;
+}
+
+h2 {
+    color: #8BC53F;
+    font-size: 2.5em;
+}
+.col-landing {
+    width: 100%;
+    height: auto;
+    padding-right: 80px;
+}
+
+.greenify {
+    color: #8BC53F;
+}
+
+h1  {
+    font-weight: 500;
+}
+
+
+a:hover, a:visited, a:link, a:active, a:focus
+{
+    text-decoration: none;
+}
+
+a h2:hover {
+        color: #ECECEC;
+}
+
+.img-fill {
+    width: 100%;
+    height: auto;
+}
+
+.nav-logo {
+    height: 30px;
+    width: auto;
+}
+
+#aboutme {
+    position: relative;
+    display: table;
+    height: 100%;
+    width: 100%;
+    background: url(../img/greenbambooleftlarge.svg);
+    /*background-image: url(../media/stars.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.spacer {
+    height:50px;
+}
+
+#pixingo {
+    position: relative;
+    display: table;
+    height: 100%;
+    width: 100%;
+    background: url(../img/greenbamboorightlarge-01.svg);
+    /*background-image: url(../media/stars.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.white-500 {
+    color: white;
+    font-weight: 500;
+}
+
+.white-300 {
+    color: white;
+    font-weight: 300;
+}
+
+#contact {
+    background-color: #8BC53F;
+}
+
+#email {
+    color: #4B4B4B;
+}
+#email:hover {
+    color: white;
+}
+
+#email:visited,#email:link,#email:active,#email:focus {
+
+}
+
+.icon {
+    padding-left:30px;
+    color: white;
+}
+
+.smaller-text {
+    font-size: 2em;
+}

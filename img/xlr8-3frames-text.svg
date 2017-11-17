@@ -1,0 +1,147 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c3c3c3;
+      }
+
+      .cls-2 {
+        fill: #acacac;
+      }
+
+      .cls-3 {
+        fill: #e6e6e6;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #e6e6e6;
+        stroke-width: 6px;
+      }
+
+      .cls-4, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        stroke: #c3c3c3;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        font-size: 50.37px;
+      }
+
+      .cls-12, .cls-7 {
+        font-family: Marydale-Regular, Marydale;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        font-size: 50px;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-18 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-21 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-22 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-24 {
+        letter-spacing: -0.04em;
+      }
+    </style>
+  </defs>
+  <title>PandesignLogos2</title>
+  <g>
+    <g id="Desktop">
+      <image width="2560" height="1600" transform="translate(731.36 196.24) scale(0.29)" xlink:href="xlr8-desktop-1.png"/>
+      <path class="cls-1" d="M706.51,626.9v69.23A32.84,32.84,0,0,0,739.35,729h712.92a32.84,32.84,0,0,0,32.84-32.85V626.9Z"/>
+      <path d="M1452.27,168.54H739.35a32.84,32.84,0,0,0-32.84,32.85V626.9h778.6V201.39A32.84,32.84,0,0,0,1452.27,168.54Zm-1.18,434.34H738.53V202.57h712.56Z"/>
+      <rect class="cls-2" x="1020.75" y="728.98" width="150.12" height="74.06"/>
+      <path class="cls-1" d="M1209.69,813H980.91a4.86,4.86,0,0,1-4.62-3,5,5,0,0,1,4.37-7h228.79a4.86,4.86,0,0,1,4.62,3A5,5,0,0,1,1209.69,813Z"/>
+    </g>
+    <g id="Laptop">
+      <image width="2560" height="1600" transform="translate(458.02 544.09) scale(0.2)" xlink:href="xlr8-desktop.png"/>
+      <path class="cls-1" d="M381.43,880.48c0,12.73,10.62,23.1,23.69,23.1h602.13c13.06,0,23.69-10.37,23.69-23.1Z"/>
+      <path class="cls-3" d="M953.64,523.88h-494a23.7,23.7,0,0,0-23.7,23.69V880.48H977.33V547.57A23.69,23.69,0,0,0,953.64,523.88Zm.6,334.94H459V548.42h495.2Z"/>
+      <path class="cls-2" d="M648.38,880.48a9.89,9.89,0,0,0,9.64,10.1h96.33a9.88,9.88,0,0,0,9.63-10.1Z"/>
+    </g>
+    <g id="Mobile">
+      <image width="750" height="1334" transform="translate(1309.82 474.35) scale(0.29)" xlink:href="xlr8-mobile-1.jpeg"/>
+      <rect class="cls-4" x="1299.31" y="417.84" width="239.27" height="493.62" rx="32.36" ry="32.36"/>
+      <path class="cls-5" d="M1506.21,417.84H1331.67a32.36,32.36,0,0,0-32.36,32.36V879.1a32.36,32.36,0,0,0,32.36,32.36h174.54a32.36,32.36,0,0,0,32.36-32.36V450.2A32.36,32.36,0,0,0,1506.21,417.84Zm18.35,435.42H1313.32V476h211.24Z"/>
+      <circle class="cls-1" cx="1380.14" cy="448.02" r="2.16"/>
+      <line class="cls-6" x1="1398.46" y1="446.94" x2="1439.42" y2="446.94"/>
+    </g>
+  </g>
+  <text class="cls-7" transform="translate(1564.52 288.51)"><tspan class="cls-8">r</tspan><tspan x="18.44" y="0">esponsi</tspan><tspan class="cls-9" x="144.46" y="0">v</tspan><tspan x="165.16" y="0">e design</tspan><tspan class="cls-10"><tspan x="0" y="60.44">f</tspan><tspan class="cls-11" x="18.44" y="60.44">or mobility</tspan></tspan></text>
+  <path d="M1712.67,378.6c-5.43,39.41-23.62,76.49-39.59,112.52-15.32,34.56-32.47,68.76-56.43,98.24a219.18,219.18,0,0,1-43.82,41.4c-.78.55,0,1.85.76,1.3,62.51-43.95,92.75-118.78,120.83-186.94,8.79-21.33,16.53-43.17,19.69-66.12.14-.95-1.31-1.36-1.44-.4Z"/>
+  <path d="M1573.48,630.68a83.12,83.12,0,0,1,3.31-28.69.75.75,0,0,0-1.44-.4,84.17,84.17,0,0,0-3.37,29.09c0,1,1.55,1,1.5,0Z"/>
+  <path d="M1573.73,632.32a69.38,69.38,0,0,1,21.8,5.08c.89.36,1.28-1.09.39-1.45a70.68,70.68,0,0,0-22.19-5.13c-1-.07-1,1.43,0,1.5Z"/>
+  <text class="cls-12" transform="translate(307.59 211.29)">in<tspan class="cls-13" x="30.9" y="0">t</tspan><tspan x="47.7" y="0">e</tspan><tspan class="cls-14" x="72" y="0">r</tspan><tspan x="91.5" y="0">a</tspan><tspan class="cls-15" x="109.95" y="0">c</tspan><tspan x="134.4" y="0">ti</tspan><tspan class="cls-16" x="161.4" y="0">v</tspan><tspan x="181.95" y="0">e JS</tspan></text>
+  <path d="M431,239.88c6.39,37.35,12.45,77.2,36.31,108,21.61,27.87,54.59,44.08,88.87,50.06,21,3.66,42.32,3.89,63.54,3.47a.75.75,0,0,0,0-1.5c-37.47.73-75.85-1.1-109.76-18.82-31.28-16.35-52.63-43.61-63.41-77.05-6.77-21-10.4-42.86-14.11-64.54-.16-1-1.61-.55-1.44.39Z"/>
+  <path d="M620.15,399.47l-13.74-18.2c-.57-.76-1.87,0-1.29.76l13.74,18.2c.57.76,1.88,0,1.29-.76Z"/>
+  <path d="M620.49,400.46l-18.11,17.89c-.69.68.37,1.74,1.06,1.06l18.11-17.89c.69-.68-.37-1.74-1.06-1.06Z"/>
+  <text class="cls-12" transform="translate(75.72 469.69)">Dja<tspan class="cls-17" x="64.65" y="0">n</tspan><tspan class="cls-14" x="84.75" y="0">g</tspan><tspan x="107.55" y="0">o-Ma</tspan><tspan class="cls-18" x="210.75" y="0">k</tspan><tspan class="cls-19" x="237.9" y="0">o-Plus </tspan><tspan class="cls-14" x="0" y="60">fr</tspan><tspan class="cls-20" x="37.5" y="60">a</tspan><tspan class="cls-19" x="55.2" y="60">m</tspan><tspan class="cls-21" x="86.7" y="60">e</tspan><tspan class="cls-22" x="110.1" y="60">w</tspan><tspan x="144.75" y="60">ork</tspan><tspan class="cls-23" x="0" y="120">w</tspan><tspan class="cls-20" x="36.45" y="120">r</tspan><tspan class="cls-19" x="56.1" y="120">i</tspan><tspan class="cls-24" x="67.8" y="120">t</tspan><tspan class="cls-13" x="85.8" y="120">t</tspan><tspan x="102.6" y="120">en in </tspan><tspan x="0" y="180">python &amp; c#</tspan></text>
+  <path d="M184.34,683.33c50.12,30.75,107.71,48.76,166.53,51a333.18,333.18,0,0,0,50.53-1.94c.51-.06,1-.61.65-1.13l-14.21-20.64c-.55-.79-1.85,0-1.3.75l14.21,20.65.65-1.13a338.83,338.83,0,0,1-172.18-25.87,350.59,350.59,0,0,1-44.12-23c-.83-.51-1.58.79-.76,1.29Z"/>
+  <path d="M400.79,731.54q-5.78,9.6-11.88,19c-.52.81.78,1.56,1.3.75q6.09-9.39,11.88-19a.75.75,0,0,0-1.3-.76Z"/>
+</svg>

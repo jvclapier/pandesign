@@ -1,0 +1,60 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c3c3c3;
+      }
+
+      .cls-2 {
+        fill: #acacac;
+      }
+
+      .cls-3 {
+        fill: #e6e6e6;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #e6e6e6;
+        stroke-width: 6px;
+      }
+
+      .cls-4, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        stroke: #c3c3c3;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>PandesignLogos</title>
+  <g>
+    <g id="Desktop">
+      <image width="2560" height="1600" transform="translate(731.36 196.24) scale(0.29)" xlink:href="xlr8-desktop-1.png"/>
+      <path class="cls-1" d="M706.51,626.9v69.23A32.84,32.84,0,0,0,739.35,729h712.92a32.84,32.84,0,0,0,32.84-32.85V626.9Z"/>
+      <path d="M1452.27,168.54H739.35a32.84,32.84,0,0,0-32.84,32.85V626.9h778.6V201.39A32.84,32.84,0,0,0,1452.27,168.54Zm-1.18,434.34H738.53V202.57h712.56Z"/>
+      <rect class="cls-2" x="1020.75" y="728.98" width="150.12" height="74.06"/>
+      <path class="cls-1" d="M1209.69,813H980.91a4.86,4.86,0,0,1-4.62-3,5,5,0,0,1,4.37-7h228.79a4.86,4.86,0,0,1,4.62,3A5,5,0,0,1,1209.69,813Z"/>
+    </g>
+    <g id="Laptop">
+      <image width="2560" height="1600" transform="translate(458.02 544.09) scale(0.2)" xlink:href="xlr8-desktop.png"/>
+      <path class="cls-1" d="M381.43,880.48c0,12.73,10.62,23.1,23.69,23.1h602.13c13.06,0,23.69-10.37,23.69-23.1Z"/>
+      <path class="cls-3" d="M953.64,523.88h-494a23.7,23.7,0,0,0-23.7,23.69V880.48H977.33V547.57A23.69,23.69,0,0,0,953.64,523.88Zm.6,334.94H459V548.42h495.2Z"/>
+      <path class="cls-2" d="M648.38,880.48a9.89,9.89,0,0,0,9.64,10.1h96.33a9.88,9.88,0,0,0,9.63-10.1Z"/>
+    </g>
+    <g id="Mobile">
+      <image width="750" height="1334" transform="translate(1309.82 474.35) scale(0.29)" xlink:href="xlr8-mobile-1.jpeg"/>
+      <rect class="cls-4" x="1299.31" y="417.84" width="239.27" height="493.62" rx="32.36" ry="32.36"/>
+      <path class="cls-5" d="M1506.21,417.84H1331.67a32.36,32.36,0,0,0-32.36,32.36V879.1a32.36,32.36,0,0,0,32.36,32.36h174.54a32.36,32.36,0,0,0,32.36-32.36V450.2A32.36,32.36,0,0,0,1506.21,417.84Zm18.35,435.42H1313.32V476h211.24Z"/>
+      <circle class="cls-1" cx="1380.14" cy="448.02" r="2.16"/>
+      <line class="cls-6" x1="1398.46" y1="446.94" x2="1439.42" y2="446.94"/>
+    </g>
+  </g>
+</svg>
